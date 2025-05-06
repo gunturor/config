@@ -1,4 +1,5 @@
-- name: (ID) Akamai Connected Cloud
+proxies:
+  - name: (ID) Akamai Connected Cloud
     server: ovo.id
     port: 80
     type: vless
